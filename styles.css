@@ -1,19 +1,19 @@
 body {
-    background: #5837DB;
-    font-family: Arial;
+  background: #C5C6C7;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 h1{
-    color: #8E37DB;
-    text-align: center;
+  color: #66FCF1;
+  text-align: center;
 }
 
 h2 {
-    color: #374BDB;
-    text-align: center;
+  color: #45A29E;
+  text-align: center;
 }
 
 p {
-    color: #377FDB;
-    text-align: center;
+  color: #000000;
+  text-align: center;
 }
