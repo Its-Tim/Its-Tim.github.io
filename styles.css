@@ -40,9 +40,4 @@ p {
   border-radius: 15px;
 }
 
-/* Rotates the affinity diagram because it was sideways */
-.rotate-fix {
-  transform: rotate(90deg);
-  width: auto;
-  height: 200px;
-}
+
