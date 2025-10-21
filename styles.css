@@ -39,4 +39,8 @@ p {
   height: auto;
   border-radius: 15px;
 }
+.rotate-fix
+{
+  transform: rotate(90deg)
+}
 
