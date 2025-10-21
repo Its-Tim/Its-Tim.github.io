@@ -42,7 +42,7 @@ p {
 
 /* Rotates the affinity diagram because it was sideways */
 .rotate-fix {
-  transform: rotate(90deg);
+  transform: rotate(270deg);
   width: auto;
   height: 300px;
 }
