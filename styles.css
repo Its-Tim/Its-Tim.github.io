@@ -32,7 +32,7 @@ p {
 }
 
 .project {
-  width: 30%;
+  width: 40%;
   margin: 5px;       
   padding: 10px;
   background: white;
@@ -45,7 +45,7 @@ p {
 width: 450px;
 height: 300px;
 margin: 10px;
-border: 2px solid rgb(126, 14, 201); /* choose a color */
+border: 2px solid rgb(0, 0, 0);
 display: block;
 margin: auto;
 }
