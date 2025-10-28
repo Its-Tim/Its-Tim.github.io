@@ -42,8 +42,8 @@ p {
 }
 
 .project img {
-width: 350px;
-height: 350px;
+width: 450px;
+height: 300px;
 margin: 10px;
 border: 2px solid rgb(126, 14, 201); /* choose a color */
 display: block;
