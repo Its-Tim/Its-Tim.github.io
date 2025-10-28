@@ -42,9 +42,12 @@ p {
 }
 
 .project img {
-  width: 100%;
-  height: auto;
-  border-radius: 10px;
+width: 300px;
+height: 300px;
+margin: 10px;
+border: 2px solid rgb(126, 14, 201); /* choose a color */
+display: block;
+margin: auto;
 }
 
 .rotate-fix {
