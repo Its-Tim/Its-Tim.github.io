@@ -1,1 +1,37 @@
 
+/* resume.css
+   Overrides for black & white resume page
+   Keeps layout and centering from styles.css
+*/
+
+body {
+  background: #ffffff;   
+  color: #000000;        
+}
+
+h1, h2, h3, h4 {
+  color: #000000;
+}
+
+p, li {
+  color: #000000;
+}
+
+/* Links: black with underline for visibility */
+a {
+  color: #000000;
+  text-decoration: underline;
+}
+
+/* Remove any colored shadows or backgrounds on project/skill cards */
+.project,
+.skill-list li {
+  background: #ffffff;
+  border: 1px solid #ccc;
+  box-shadow: none;
+}
+
+/* Subtle gray image borders */
+.project img {
+  border: 1px solid #ccc;
+}
