@@ -53,3 +53,16 @@ margin: auto;
 .rotate-fix {
   transform: rotate(90deg);
 }
+
+/* Center the Skills section */
+section ul {
+  list-style-position: inside;  /* keeps bullets nicely aligned */
+  text-align: center;          
+  padding-left: 0;              /* removes default left padding */
+}
+
+section ul li {
+  display: inline-block;        /* makes each skill appear side by side */
+  margin: 5px 10px;             /* adds a little spacing between skills */
+}
+
