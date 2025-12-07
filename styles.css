@@ -34,11 +34,11 @@ p {
 
 
 .project {
-  width: 280px;        /* clean fixed size so flexbox can center them evenly */
-  margin: 5px;
+  width: 100%;        /* forces each project to take a full row */
+  max-width: 500px;   /* keeps them from becoming too wide */
+  margin: 10px auto;  /* centers each project box */
   padding: 10px;
   background: #C5C6C7;
-  border-radius: 15px; /* optional, you can keep it or remove */
   text-align: center;
 }
 
