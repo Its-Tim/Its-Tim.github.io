@@ -26,19 +26,23 @@ p {
 .projects {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
-  margin: 0;        
+  justify-content: center; /* centers all project boxes */
+  gap: 20px;               /* even spacing between them */
+  margin: 0 auto;
   padding: 0;
 }
 
+
 .project {
-  width: 30%;
+  width: 280px;        /* clean fixed size so flexbox can center them evenly */
   margin: 5px;
   padding: 10px;
-  background: #C5C6C7;     
-  box-shadow: #C5C6C7;     
+  background: #C5C6C7;
+  border-radius: 15px; /* optional, you can keep it or remove */
   text-align: center;
 }
+
+
 
 
 .project img {
