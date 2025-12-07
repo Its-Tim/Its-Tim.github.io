@@ -35,8 +35,8 @@ p {
   width: 30%;
   margin: 5px;
   padding: 10px;
-  background: none;     /* removes white background */
-  box-shadow: none;     /* removes the card outline */
+  background: #C5C6C7;     
+  box-shadow: #C5C6C7;     
   text-align: center;
 }
 
