@@ -56,9 +56,6 @@ p {
 }
 
 
-.rotate-fix {
-  transform: rotate(90deg);
-}
 
 .affinity-img {
   max-width: 250px;   /* shrink only this image */
